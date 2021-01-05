@@ -1,1 +1,3 @@
-# peppermint_docs
+# peppermint
+
+Először [frissítsünk](afterinstall.md)
